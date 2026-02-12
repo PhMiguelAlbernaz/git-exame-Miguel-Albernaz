@@ -1,3 +1,3 @@
 Miguel Albernaz
 12/2/2026
-uso  o github teste
+usar  o github teste
