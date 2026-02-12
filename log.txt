@@ -1,0 +1,4 @@
+git clone: para criar uma cópia local de um repositório Git remoto  ou local
+git add: para preparar as alterações dos arquivos no diretório de trabalho para o próximo commit no Git
+git commit: para salvar de forma permanente, no repositório local, um instantâneo  das alterações preparadas (git add) no histórico do projeto
+

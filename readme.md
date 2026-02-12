@@ -1,3 +1,3 @@
 Miguel Albernaz
 12/2/2026
-usar  o github
+usar  o githubfeature/log-comando
